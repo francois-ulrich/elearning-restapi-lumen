@@ -6,7 +6,13 @@
     "type": "project",
     "require": {
         "php": "^7.2.5",
-        "laravel/lumen-framework": "^7.0"
+        "cocur/slugify": "^4.0",
+        "darryldecode/cart": "^4.2",
+        "flipbox/lumen-generator": "^8.2",
+        "james-heinrich/getid3": "^1.9",
+        "laravel/lumen-framework": "^7.0",
+        "spatie/laravel-newsletter": "^4.8",
+        "stripe/stripe-php": "^7.68"
     },
     "require-dev": {
         "fzaninotto/faker": "^1.9.1",
